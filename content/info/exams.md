@@ -163,4 +163,4 @@ aplicación.
 
 Recuerde que no está practicando ukemi para hacer alarde de sus capacidades.
 Uke solo debe hacer lo que es apropiado de acuerdo a la situación. Esto
-requiere de mucho entrenamiento y búsqueda personal
+requiere de mucho entrenamiento y búsqueda personal.
