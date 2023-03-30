@@ -23,9 +23,6 @@ reconocimiento directo de Hombu Dojo, la Central de Japón. Todos los Grados
 que se otorgan, Dan (cinturones negros) y Kiu, tienen el reconocimiento de
 Hombu Dojo.
 
-> Nuestro Director Técnico es el **Shihan Yoshimitsu Yamada 8º Dan**, discípulo 
-> directo del Creador de Aikido **O Sensei Morihei Ueshiba**.
-
 De hecho **somos los introductores del Arte Marcial de la Paz**, Aikido en la 
 Provincia, por lo que nos sentimos con la gran responsabilidad de continuar 
 con esta grata tarea para afianzar su difusión con el objetivo que las nuevas 
@@ -33,19 +30,5 @@ generaciones puedan beneficiarse con la práctica de esta disciplina que
 seguramente les ayudará y brindará herramientas que les serán útiles para 
 mejorar no sólo su salud sino también, su estilo de vida.
 
-{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" caption="Shihan Raúl Marcial Medina Franck - 6º Dan Aikikai - Presidente y Director General" %}}
+{{% figure src="/images/people/Raul Marcial Medina Franck.jpg" caption="Shihan Raúl Marcial Medina Franck - 7º Dan Aikikai - Presidente y Director General" %}}
 
-{{% figure src="/images/diploma.jpg" caption="Diploma de 6º Dan" %}}
-
-> La traducción literal del diploma sería:
-> Leido de izquierda a derecha: 
->
-> FUNDACION AIKIKAI N° 2113
->
-> CERTIFICADO A LA PERSONA DE LA DERECHA
->
-> EN ESTA OCASIÓN DE AIKIDO
->
-> EL 6° DAN SE LE OTORGA ERA HEI SEI 23 AÑO 2011 MES 01 DIA 01
->
-> DOSHU UESHIBA MORITERU
